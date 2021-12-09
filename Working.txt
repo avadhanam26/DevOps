@@ -1,3 +1,2 @@
 Trainig today on Git
 Learnt few Commands
-You cannot make changes in Git
