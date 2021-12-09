@@ -1,1 +1,2 @@
 Trainig today on Git
+Learnt few Commands
